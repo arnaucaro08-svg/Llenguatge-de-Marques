@@ -1,0 +1,118 @@
+*{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color:#f7f5ef;
+    color:#333;
+    line-height: 1.5;
+}
+
+h1,h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: #14213d;
+    color: #fff;
+    text-align: center;
+}
+
+header h2{
+    letter-spacing: 2px;
+    padding: 10px;
+    margin: 0px;
+}
+
+nav ul{
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+}
+
+nav a{
+    color:white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #fca311;
+}
+
+nav li{
+    list-style-type: none;
+}
+
+.banner{
+    background-image:url("cafe.jpg");
+    min-height: 300px;
+}  
+
+.banner h1{
+    letter-spacing: 2px;
+    color:#fff;
+    padding-top: 50px;
+}
+
+.banner button{
+    background-color: rgb(252, 163, 17); 
+    color: #14213d;
+    margin-top: 50px;
+    padding: 20px 25px;
+    border-radius: 50px;
+    border-style: none;
+    font-weight: bold;
+    box-shadow: 0px 5px 8px rgb(142, 83, 0);
+}
+
+.banner button:hover{
+    background-color: #fff;
+}
+
+main{
+    width: 800px;
+    margin: 50px auto;
+}
+
+.targeta{
+    border: 2px;
+    border-color:#14213d;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    padding: 10px 30px;
+    margin: 20px;
+    border-radius: 15px;
+    border-style: solid;
+    font-family: Georgia;
+    background-color: #fff;
+}
+
+.targeta h3{
+    color: #14213d;
+    font-family: Georgia;
+}
+
+.preu{
+    color: rgb(218, 132, 11);
+}
+
+.horari{
+    width: 600px;
+    padding: 10px;
+    background-color: rgba(252, 163, 17, 0.15);
+    border: 2px;
+    border-color:#fca311;
+    border-radius: 12px;
+    border-style: dashed;
+    text-align: center;
+    margin: 50px auto;
+}
+
+footer{
+    background-color: #14213d;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
