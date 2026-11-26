@@ -7,7 +7,7 @@
         "Any": 1962,
         "Autor": "Mercè Rodoreda",
         "Genere": "Novel·la",
-        "Disponible": "Si"
+        "Disponible": true
     },
     {
         "ISBN": "978-84-662-1830-2",
@@ -16,7 +16,7 @@
         "Any": 1490,
         "Autor": "Joanot Martorell, Martí Joan de Galba",
         "Genere": "Cavalleresca",
-        "Disponible": "No"
+        "Disponible": false
     },
     {
         "ISBN": "978-84-9759-123-4",
@@ -25,7 +25,7 @@
         "Any": 1974,
         "Autor": "Manuel de Pedrolo",
         "Genere": "Ciència-ficció",
-        "Disponible": "Si"
+        "Disponible": true
     }
     ]
 }

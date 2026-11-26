@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
-    <llibre>
+    <llibre disponible="si">
         <ISBN>978-84-233-5033-4</ISBN>
         <nom>La Plaça del Diamant</nom>
-        <preu>12.50</preu>
+        <preu moneda="EUR">12.50</preu>
         <autor>Mercè Rodoreda</autor>
         <any>1962</any>
         <gènere>novel·la</gènere>
         <disponible>Si</disponible>
     </llibre>
-    <llibre>
+    <llibre disponible="no">
         <ISBN>978-84-662-1830-2</ISBN>
         <nom>Tirant lo Blanc</nom>
-        <preu>15.00</preu>
+        <preu moneda="EUR">15.00</preu>
         <autor>Joanot Martorell, Martí Joan de Galba</autor>
         <any>1490</any>
         <gènere>Cavalleresca</gènere>
         <disponible>No</disponible>
     </llibre>
-    <llibre>
+    <llibre disponible="si">
         <ISBN>978-84-9759-123-4</ISBN>
         <nom>Mecanoscrit del segon origen</nom>
-        <preu>10.90</preu>
+        <preu moneda="EUR">10.90</preu>
         <autor>Manuel de Pedrolo</autor>
         <any>1974</any>
         <gènere>Ciència-ficció</gènere>
-        <disponible>Si</disponible>
     </llibre>
 </biblioteca>
