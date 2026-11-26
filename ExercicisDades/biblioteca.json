@@ -1,0 +1,31 @@
+{
+    "llibres":[
+    {
+        "ISBN": "978-84-233-5033-4",
+        "Nom": "La Plaça del Diamant",
+        "Preu": 12.50,
+        "Any": 1962,
+        "Autor": "Mercè Rodoreda",
+        "Genere": "Novel·la",
+        "Disponible": "Si"
+    },
+    {
+        "ISBN": "978-84-662-1830-2",
+        "Nom": "Tirant lo Blanc",
+        "Preu": 15.00,
+        "Any": 1490,
+        "Autor": "Joanot Martorell, Martí Joan de Galba",
+        "Genere": "Cavalleresca",
+        "Disponible": "No"
+    },
+    {
+        "ISBN": "978-84-9759-123-4",
+        "Nom": "Mecanoscrit del segon origen",
+        "Preu": 10.90,
+        "Any": 1974,
+        "Autor": "Manuel de Pedrolo",
+        "Genere": "Ciència-ficció",
+        "Disponible": "Si"
+    }
+    ]
+}
